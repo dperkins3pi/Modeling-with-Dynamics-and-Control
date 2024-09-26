@@ -1,0 +1,27 @@
+09/26/24 14:43
+
+Problem 1 (7 points):
+Wrong graph and numbers. I think the problem is the population is 3 million, not 5000.
+Score += 4
+
+Problem 2 (7 points):
+Score += 7
+
+Problem 3 (7 points):
+Score += 7
+
+Problem 4 (14 points):
+Score += 14
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
