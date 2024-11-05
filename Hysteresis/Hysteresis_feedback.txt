@@ -1,0 +1,28 @@
+11/05/24 08:58
+
+Problem 1 (7 points):
+Score += 7
+
+Problem 2 (7 points):
+Score += 7
+
+Problem 3 (7 points):
+Score += 7
+
+Problem 4 (15 points):
+Score += 15
+
+Problem 5 (9 points):
+No axis labels
+Score += 8
+
+Code Quality (5 points):
+Don't forget titles
+Score += 4
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
