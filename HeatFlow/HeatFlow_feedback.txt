@@ -1,0 +1,21 @@
+11/15/24 16:41
+
+Problem 1 (13 points):
+Plot should be labeled somehow
+Score += 12
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (17 points):
+Score += 17
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
