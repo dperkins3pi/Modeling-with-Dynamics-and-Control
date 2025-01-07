@@ -2,7 +2,7 @@
 # Download data files and place them in the lab folders.
 
 SOURCE="https://github.com/Foundations-of-Applied-Mathematics/Data.git"
-LABS=("Animation" "AnisotropicDiffusion" "SIR_Models")
+LABS=("Animation" "AnisotropicDiffusion" "InverseProblem" "PoissonEquation" "SIR_Models" "TotalVariation")
 GIT="https://git-scm.com"
 TEMPDIR="_DATA_"`date +%s`"_"
 

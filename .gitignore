@@ -5,7 +5,11 @@ Animation/orbits.npz
 Animation/vibration.npz.gz
 AnisotropicDiffusion/coke_balloon.jpg
 AnisotropicDiffusion/balloons_color.jpg
+InverseProblem/measured_heat.npy
+PoissonEquation/dr_jarvis.jpg
+PoissonEquation/mount_rushmore.jpg
 SIR_Models/new_york_cases.npy
+TotalVariation/balloons_color.jpg
 
 # General Files ---------------------------------------------------------------
 
